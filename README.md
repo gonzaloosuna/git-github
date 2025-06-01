@@ -1,7 +1,10 @@
 # Contenido de este repositorio
 
 **Linea agregada en mi repositorio local**
+
 *Linea agregada desde GitHub*
+
+*Otra actualizacion desde GitHub*
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
